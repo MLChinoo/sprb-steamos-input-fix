@@ -6,7 +6,7 @@
 
 修复后无需切换到键盘鼠标布局，也不需要更换操作系统或修改系统级手柄配置。
 
-### **注意：请先打上官方的[CG・文本还原版补丁](https://va-trialdist.azureedge.net/key/summer_rb/index.html)，再使用本项目修补。**
+### **注意：请先打上官方的[CG・文本还原版补丁](https://va-trialdist.azureedge.net/key/summer_rb/index.html)(发布日：2026年3月3日 Ver.2.4.2.3)，再使用本项目修补。**
 
 ## 问题描述
 
